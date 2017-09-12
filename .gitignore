@@ -1,0 +1,12 @@
+#*.vscode/arduino.json
+#*.vcxproj.filters
+#*.sln
+#*.vcxproj
+*.suo
+*.xml
+*.buildinfo
+*.a
+*.d
+*.o
+*.elf
+*.hex
